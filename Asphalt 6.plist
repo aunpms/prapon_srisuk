@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://a00b4367.dl-one2up.com/onetwo/content/2015/10/14/a00b4367fc5d31c989b83b4974148cb0.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.gameloft.Asphalt6</string>
+                <key>bundle-version</key>
+                <string>1.3.8</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Asphalt 6: Adrenaline</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
