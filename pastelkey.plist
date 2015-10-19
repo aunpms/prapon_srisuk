@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://812b75b8.dl-one2up.com/onetwo/content/2015/10/15/812b75b8956ac419b6043fdaad1e8fe5.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.iappcreation.pastelkeyboard</string>
+                <key>bundle-version</key>
+                <string>1.7.0.6</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Pastel Keyboard Themes Extension - 100+ Cute Colorful Keyboard Skins Design</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
