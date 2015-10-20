@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://f6b2ac67.dl-one2up.com/onetwo/content/2015/10/15/f6b2ac678109d90a33826ef4ea0afd53.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>jp.co.capcom.rockmanxus</string>
+                <key>bundle-version</key>
+                <string>1.03.20</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>MEGA MAN X</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
