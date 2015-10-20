@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://77db9b66.dl-one2up.com/onetwo/content/2015/10/15/77db9b66c8a77dac939c783ce406b464.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.zynga.phosphor.horn.1</string>
+                <key>bundle-version</key>
+                <string>9927.680</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Horn™</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
