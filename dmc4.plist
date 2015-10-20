@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://1693b209.dl-one2up.com/onetwo/content/2015/10/14/1693b209c7d6e00567466730af794d1b.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>jp.co.capcom.devil4us</string>
+                <key>bundle-version</key>
+                <string>1.05.01</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Devil May Cry 4 refrain</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
