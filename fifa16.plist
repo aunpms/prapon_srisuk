@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://57b7b657.dl-one2up.com/onetwo/content/2015/10/14/57b7b65754dbba1eda0da7164dbd27cb.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.ea.ios.fifaworld</string>
+                <key>bundle-version</key>
+                <string>2.0.104816</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>FIFA 16 Ultimate Team™</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
